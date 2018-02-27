@@ -1,0 +1,14 @@
+{
+  "name": "permiPlugin",
+  "version": "0.0.3",
+  "cordova": {
+    "id": "permiPlugin",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "ChenXinPing",
+  "license": "ISC",
+  "description": ""
+}
